@@ -1,1 +1,1 @@
-FREOM docker.io/citadel:1.1.6
+FROM docker.io/citadel:1.1.6
