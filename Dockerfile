@@ -1,1 +1,1 @@
-FROM argoproj/argoui:v2.3.0
+FROM argoproj/workflow-controller:v2.3.0
