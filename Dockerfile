@@ -1,1 +1,1 @@
-FROM argoproj/workflow-controller:v2.3.0
+FROM gcr.io/kubeflow-images-public/centraldashboard
