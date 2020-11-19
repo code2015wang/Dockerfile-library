@@ -1,1 +1,1 @@
-FROM docker.io/istio/proxy_init:1.1.6
+FROM gcr.io/kubeflow-images-public/jupyter-web-app:v0.5.0
