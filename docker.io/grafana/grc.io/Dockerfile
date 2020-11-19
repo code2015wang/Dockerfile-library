@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/api-server
+FROM gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
