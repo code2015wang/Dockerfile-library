@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/jupyter-web-app:v0.5.0
+FROM argoproj/argoui:v2.3.0
