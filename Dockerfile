@@ -1,1 +1,1 @@
-FROM docker.io/istio/citadel:1.1.6
+FROM docker.io/istio/sidecar_injector:1.1.6
