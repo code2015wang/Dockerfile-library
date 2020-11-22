@@ -1,1 +1,1 @@
-FROM docker.io/prom/prometheus:v2.3.1
+FROM docker.io/istio/citadel:1.1.6
