@@ -1,1 +1,1 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
+FROM metacontroller/metacontroller:v0.3.0
