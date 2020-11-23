@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/metadata-frontend:v0.1.8
+FROM gcr.io/ml-pipeline/api-server:0.2.5
