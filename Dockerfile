@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
+FROM docker.io/istio/proxy_init:1.1.6
