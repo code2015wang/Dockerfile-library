@@ -1,1 +1,1 @@
-FROM mysql:8.0.3
+FROM gcr.io/kubeflow-images-public/metadata:v0.1.11
