@@ -1,1 +1,1 @@
-FROM metacontroller/metacontroller:v0.3.0
+FROM mysql:8.0.3
