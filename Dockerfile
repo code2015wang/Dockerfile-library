@@ -1,1 +1,1 @@
-FROM tensorflow/tensorflow:1.8.0
+FROM gcr.io/kubeflow-images-public/tf_operator:v1.0.0-g92389064
